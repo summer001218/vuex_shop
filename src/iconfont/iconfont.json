@@ -1,0 +1,51 @@
+{
+  "id": "2274224",
+  "name": "电商后台管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1828581",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "4070323",
+      "name": "电视",
+      "font_class": "dianshi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "16239605",
+      "name": "立方体",
+      "font_class": "lifangti",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "18530382",
+      "name": "订单",
+      "font_class": "order",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "6321900",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "8203471",
+      "name": "人",
+      "font_class": "user",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    }
+  ]
+}
